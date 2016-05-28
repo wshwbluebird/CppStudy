@@ -5,8 +5,10 @@
       <sourceFolder url="file://$MODULE_DIR$/Study_Static.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Study-Abstract.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/main.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Study_const.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/pointerObject.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Constuctedf.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Study_friend.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
